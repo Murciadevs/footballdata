@@ -61,7 +61,7 @@ Este proyecto se compone de 2 partes:
 
 1. Instala el complemento para VSCode "FTP-sync" 
    
-<img src="desktop/assets/FTP-sync.JPG" height="200px" />
+<img src="desktop/assets/ftp-sync.JPG" height="200px" />
 
 2. Ponte en contacto con el rapiñador para obtener el archivo ftp-sync.json que tendrás que poner en la carpeta web/.vscode para que se sincronicen los datos con el servidor.
 3. Si al guardar no se actualiza pincha en Crtl+Shift+p y escribe en la paleta de comandos Ftp-sync: upload file
