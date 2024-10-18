@@ -1,0 +1,7 @@
+venv/
+desktop/venv/
+desktop/football-data.sqlite
+desktop/assets/datasets
+
+web/.vscode/ftp-sync.json
+web/football-data.sqlite
